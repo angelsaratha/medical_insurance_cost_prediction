@@ -5,6 +5,10 @@ Machine learning project to predict medical insurance costs using Scikit-learn.
 
 This project uses machine learning to predict medical insurance charges based on customer information.
 
+## Objective
+
+The objective is to build a regression model that can predict insurance charges for a new customer.
+
 ## Dataset
 
 The dataset contains information about:
@@ -15,12 +19,6 @@ The dataset contains information about:
 - Smoking status
 - Region
 - Insurance charges
-
-## Objective
-
-The objective is to build a regression model that can predict insurance charges for a new customer.
-
-## Dataset
 
 The dataset used in this project is not included in this repository.
 
